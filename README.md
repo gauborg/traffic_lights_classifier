@@ -86,3 +86,9 @@ The classification algorithm is able to classify 94.61% of the images correctly 
 3. We can also use a feature line detection feature to better identify arrow lights.
 
 ---
+
+### Improvements
+
+Rather than using a pixel intensity/filtering based approach, modern sorting algorithms have been implemented with Convolutional Neural Networks to classify not just traffic lights but a range of traffic signs.
+
+An implementation of a traffic sign classifier using Convolutional Neural Networks in Tensorflow in demonstrated in this separate GitHub repository [Traffic Sign Classifier](https://github.com/gauborg/Traffic_Sign_Classifier-gauborg).
